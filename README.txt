@@ -9,7 +9,6 @@ File Manifest:
 	AurUnknowns300.txt
 	histogramMaker.py
 	histogramMakerUnknowns.py
-	hw2_writeup_Jack_Volonte.pdf
 	preceptron.py
 	README.txt
 	validationAurs
